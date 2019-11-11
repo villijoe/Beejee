@@ -1,0 +1,23 @@
+.thumb {
+    height: 240px;
+    width: 320px;
+    border: 1px solid black;
+    margin: 10px 5px 0 0;
+}
+
+.icon {
+    font-size: 20px;
+}
+
+a, a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
+.closed {
+    color: red;
+}
+
+.open {
+    color: green;
+}
+
